@@ -14,6 +14,8 @@ public class Socio {
     public String Nombre;
     public String Direccion;
     public String Telefono;
+    //AQUI MODIFICASTE XD
+    public String telefono2;
 
     /**
      * Constructor por omisión.
