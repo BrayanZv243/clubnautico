@@ -17,6 +17,14 @@ public class Socio {
     //AQUI MODIFICASTE XD
     public String telefono2;
 
+    public String getTelefono2() {
+        return telefono2;
+    }
+
+    public void setTelefono2(String telefono2) {
+        this.telefono2 = telefono2;
+    }
+
     /**
      * Constructor por omisión.
      */
